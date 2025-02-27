@@ -48,3 +48,4 @@ int main() {
 
     return 0;
 }
+// the code uses double pointers to point towards the memory of the elements in the 2d array to compare and find out wat the coldest and hottest temperature is .
